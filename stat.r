@@ -1,0 +1,6 @@
+da <- c(1,2,3,4,5,2,3)
+print(da)
+mea=mean(da)
+print(mea)
+var1=var(da)
+print(var)
